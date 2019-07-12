@@ -15,7 +15,8 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Dyzmiontko](https://mrucznik-rp.pl/user/663-dyzmiontko/) - 38 warnów, liczne obrazy, brak kultury, groźby, rozpowszechnianie wizerunku gracza
 * [glo up](https://mrucznik-rp.pl/user/7840-glo-up/) - obrazy, reklama konkurencji
 * [domciodog](https://mrucznik-rp.pl/user/262-domciodog/) - 23 warny, obrazy użytkowników i administracji
-* [Andrzej](https://mrucznik-rp.pl/user/287-andrzej/) - 64 warny, trolling, oszustwa, wykorzystywanie wizerunku graczy (przerabianie & wklejanie twarzy), ciągły offtop, celowe błędy ortograficzne, śmieciowe tematy, wulgryzmy
+* [Andrzej](https://mrucznik-rp.pl/user/287-andrzej/) - 64 warny, trolling, oszustwa, wykorzystywanie wizerunku graczy (przerabianie & wklejanie twarzy), ciągły offtop, celowe błędy ortograficzne, śmieciowe tematy, wulgryzmy, złamanie cyrografu
+* [mija](https://mrucznik-rp.pl/user/2750-mija/) -Poręczyciel cyrografu który został złamany przez usera o ID 287
 * [ALIBXBA](https://mrucznik-rp.pl/user/234-alibxba/) - szkodnik no. 1, top 1 warnów [71 notek] 31 marca 2017, liczne obrazy serwera, administracji, graczy, offtop, hejt, brak kultury
 * [Vegan](https://mrucznik-rp.pl/user/1509-vegan/) - rozpowszechnianie filmów z czitowaniem, boruty, treści pornograficzne, liczne obrazy, trolling
 * [plewa](https://mrucznik-rp.pl/user/368-plewa/) - liczne obrazy, multikonta, nagminny offtop, spora kolekcja warnów
