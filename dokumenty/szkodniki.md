@@ -50,6 +50,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
 * [Vanś/bluefacebabyyoaight](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Bogata kartoteka, rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.
+* [PHC](https://mrucznik-rp.pl/user/194-phc/) - Bogata kartoteka, udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum, próba sprzedaży konta.
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany ban jest równoznaczny z automatycznym awansem użytkownika na listę bez unbana.
@@ -71,7 +72,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [habemus krzysztof/hersh/krzysztofhersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/) - spora kartoteka, liczne obrazy, straszaki
 * [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/) - spora kartoteka, offtop, multikonta, liczne obrazy, wulgaryzmy
 * [KobaltowyEryk/AlbertStulej](https://mrucznik-rp.pl/user/301-kobaltowyeryk/) - masa multikont, offtop, obrazy
-* [PHC](https://mrucznik-rp.pl/user/194-phc/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [Bleku/Blekuś](https://mrucznik-rp.pl/user/9598-bleku%C5%9B/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [matewowo/ven0m/mathewow_mrucznik](https://mrucznik-rp.pl/user/9385-matewowo/)/[ven0m](https://mrucznik-rp.pl/user/17818-ven0m/) - spora kartoteka, nagminne obrazy, offtop, liczne wulgaryzmy, multikonta
 * [Eriket](https://mrucznik-rp.pl/user/75-eriket/) - kradzież danych należących do mrucznik-rp.pl na rzecz konkurencyjnego serwera. 
