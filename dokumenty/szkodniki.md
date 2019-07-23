@@ -79,6 +79,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Sofia](https://mrucznik-rp.pl/user/13130-sofia/) - Multikonto, kupno konta forumowego/wymiana kontami na forum.
 * [Pumba](https://mrucznik-rp.pl/user/15403-pumba/) - Spora kartoteka, liczne wulgaryzmy i obrazy, rozsyłanie iploggera na forum.
 * [MaxuXD](https://mrucznik-rp.pl/user/19323-maxuxd/) - Pisanie bezsensownych postów/tematów, zaśmiecanie forum, spam.
+* [vouitton](https://mrucznik-rp.pl/user/16187-vouitton/)  - Skandaliczne zachowanie na forum, liczne prowokacje, obrazy, brak poprawy pomimo 60 notek.
 
 
 
