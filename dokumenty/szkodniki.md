@@ -80,6 +80,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Pumba](https://mrucznik-rp.pl/user/15403-pumba/) - Spora kartoteka, liczne wulgaryzmy i obrazy, rozsyłanie iploggera na forum.
 * [MaxuXD](https://mrucznik-rp.pl/user/19323-maxuxd/) - Pisanie bezsensownych postów/tematów, zaśmiecanie forum, spam.
 * [vouitton](https://mrucznik-rp.pl/user/16187-vouitton/)  - Skandaliczne zachowanie na forum, liczne prowokacje, obrazy, brak poprawy pomimo 60 notek.
+* [2advanced](https://mrucznik-rp.pl/user/12290-2advanced/) / [Vincent888](https://mrucznik-rp.pl/user/20327-vincent888/) - MK, kupno konta na forum/serwerze
 
 
 
