@@ -101,3 +101,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/)
 * [matish](https://mrucznik-rp.pl/user/20669-matish/)
+* [kvbuś](https://mrucznik-rp.pl/user/19290-kvbu%C5%9B/)
