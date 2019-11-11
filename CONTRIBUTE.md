@@ -1,1 +1,0 @@
-# Wkład społeczności.
