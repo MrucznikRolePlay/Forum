@@ -79,6 +79,8 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Pumba](https://mrucznik-rp.pl/user/15403-pumba/) - Spora kartoteka, liczne wulgaryzmy i obrazy, rozsyłanie iploggera na forum.
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Gruba kartoteka, liczne MK, kłamstwa w apelacjach.
 * [mckk](https://mrucznik-rp.pl/user/1726-mckk/) - Reklama, obrazy, offtopic oraz gigantyczna kartoteka.
+* [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/) - Dużo wpisów w kartotece, liczne obrazy i wulgaryzmy.
+* [Kennet12345](https://mrucznik-rp.pl/user/19173-kennet12345/) - Liczne MK, obraza serwera, spam apelacjami.
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
@@ -100,6 +102,5 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [J rrye/mqqq](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL/RES3T](https://mrucznik-rp.pl/user/1187-kvmil/)
-* [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
-* [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/)
+* [Czacha/Więzień](https://mrucznik-rp.pl/user/15102-czacha/)
 * [matish](https://mrucznik-rp.pl/user/20669-matish/)
