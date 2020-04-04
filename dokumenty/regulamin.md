@@ -18,7 +18,7 @@
 * Zakazuje się zamieszczania materiałów przez zarejestrowanego użytkownika forum, które mają na celu obrazy(tekst, obrazy, inne), treści erotyczne(filmy i inne), rasizmu, czy też gróźb i innych treści, które moderator uzna za niezgodne do wglądu przez publiczność forum, moderatorzy mają prawo do skasowania oraz ukrycia treści, a dodatkowo ukarania użytkownika, który zamieścił daną treść.
 * Użytkownik ma prawo do wyrażania swojej opinii tylko i wyłącznie w sposób kulturalny, oraz tak, aby treść zamieszczona nie uraziła zarejestrowanych użytkowników forum.
 * Błędy oraz niedopatrzenia należy zgłaszać Administratorowi Forum, zakazuje się wykorzystywania błędów dla własnych korzyści, oraz udostępniania dla osób trzecich.
-* Zakaz stosowania jakichkolwiek technik mających na celu utrudnienie rozpoznania lub weryfikacji użytkownika.
+* Zakaz stosowania jakichkolwiek technik mających na celu utrudnienie rozpoznania lub weryfikacji użytkownika. (VPN, proxy, inne)
 * Treści na forum pisane z licznymi i celowymi błędami ortograficznymi, obrazami, wulgaryzmami skutkują karze na forum decydującej przez moderatora.
 * Nadmierne używanie słów wulgarnych, wyzwiska, hejt, trollowanie - skutkuje karą nadaną przez moderatora. W powyższe punkty wchodzą rzeczy takie jak prywatne wiadomości, statusy, posty, tematy, panel gracza. Karze podlega zarówno osoba, która wykonuje powyższe czyny oraz ta, która wdaje się w działania, oraz też nakłania do działań.
 * Zakazuje się umieszczanie ofert handlowych, linków w celach zarobkowych na całym forum, karą może być nawet odcięcie od dostępu do serwera SA-MP oraz forum.
