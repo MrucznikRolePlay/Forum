@@ -31,7 +31,6 @@
 | 18 | xxx | Vegan | [Vegan](https://mrucznik-rp.pl/user/1509-vegan/) | 2020-01-31 |
 | 19 | Christopher Hawkins | Dowell | [dowell](https://mrucznik-rp.pl/user/2127-doweii/) | 2020-02-01 |
 | 20 | Philip Mistretta | Lagg3R_Lag | [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) | 2020-02-01 |
-| 21 | ~~Paul Brain~~ | ~~xM3T1N~~ | ~~[skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/)~~ | ~~2020-02-02~~ |
-| 22 | ~~Bob Gattusioni~~ | ~~Bonger~~ | ~~[Bonger](https://mrucznik-rp.pl/user/453-bonger/)~~ | ~~2020-02-20~~ |
-| 23 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
+| 21 | ~~Bob Gattusioni~~ | ~~Bonger~~ | ~~[Bonger](https://mrucznik-rp.pl/user/453-bonger/)~~ | ~~2020-02-20~~ |
+| 22 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
 
