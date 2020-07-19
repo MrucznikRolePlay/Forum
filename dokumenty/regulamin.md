@@ -24,7 +24,7 @@
 * Zakazuje się umieszczanie ofert handlowych, linków w celach zarobkowych na całym forum, karą może być nawet odcięcie od dostępu do serwera SA-MP oraz forum.
 * Nazwa użytkownika nie może być wulgarna i w żaden sposób prowokacyjna, zastrzega się również błędów ortograficznych.
 * Forum nie wspiera piractwa, tym samym zakazuje się publikacji odnośników do stron zawierających oprogramowanie pirackie lub łamiące zabezpieczenia.
-* Na forum obowiązuje zakaz publikacji cudzych zdjęć i danych osobowych bez zgody osoby której dotyczą.
+* Na forum obowiązuje zakaz publikacji treści pornograficznych, cudzych zdjęć i danych osobowych. Wszelkie tego typu wiadomości będą usuwane, a autor otrzyma blokadę konta.
 
 ## Prawa moderatora.
 * Moderator ma prawo do ukarania użytkownika, jeśli ten dopatrzy się treści niezgodnych z regulaminem forum.
